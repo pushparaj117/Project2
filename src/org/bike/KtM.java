@@ -12,6 +12,13 @@ System.out.println("Bikes cost is 1.75lakh");
 System.out.println("Bikes speed is 350kmph");
 		
 	}
+	
+	private void info() {
+	
+		System.out.println("regarding model info is to print");
+		
+	}
+	
 public static void main(String[] args) {
 	
 	KtM k = new KtM();
